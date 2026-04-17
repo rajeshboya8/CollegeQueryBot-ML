@@ -13,16 +13,7 @@ The motivation behind this project was to create a simple chatbot using my newly
 
 Although this chatbot may not have exceptional cognitive skills or be state-of-the-art, it was a great way for me to apply my skills and learn more about NLP and chatbot development. I hope this project inspires others to try their hand at creating their own chatbots and further explore the world of NLP.
 
-You can run Chatbot Through Terminal
-```
-git clone https://github.com/PuttuPrabhas/CollegeQueryBot-ML.git
 
-cd CollegeQueryBot
-
-pip install -r requirements.txt
-
-python app.py
-```
 
 
 
